@@ -3,7 +3,11 @@
 This repository contains complete step by step understanding of recommendation system both Collaboration and Content based.
 
 Notebooks based on:
-- Content Based Recommendation
+- User based recommendation
+- User based prediction & evaluation
+- Item based recommendation
+- Item based prediction & evaluation
+- Content
 - Product
 - News
 - Books
